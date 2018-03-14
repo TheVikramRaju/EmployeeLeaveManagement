@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ELM</string>
+    <string name="profile">Profile</string>
+    <string name="leaves">Leaves</string>
+    <string name="leave_list">Leaves</string>
+    <string name="add_leave">Sanction Leave</string>
+    <string name="options">Options</string>
+    <string name="day">day(s)</string>
+    <string name="from_date">From:</string>
+    <string name="to_date">To:</string>
+    <string name="number_of_leave_days">Number of leave days :</string>
+    <string name="save">Save</string>
+    <string name="add_leave_success">Leave santioned successfully.!</string>
+    <string name="enddate">edt_enddate</string>
+    <string name="startdate">edt_startdate</string>
+    <string name="date_format">dd-MM-yyyy</string>
+    <string name="invalid_session">Invalid Session selection</string>
+    <string name="days">Day(s)</string>
+    <string name="add_leave_title">Add Leave</string>
+    <string name="firebase_url">gs://empleavemanagement-1987f.appspot.com</string>
+    <string name="firebase_file_name">employee.txt</string>
+    <string name="emp_list_title">Employee List</string>
+    <string name="explanation_for_permission">Need permission to write file</string>
+    <string name="network_error">Please enable your network..!</string>
+    <string name="denial_of_permission">Oops you just denied the permission</string>
+    <string name="downloading">File downloading..</string>
+    <string name="fetching_data">Please wait..</string>
+    <string name="file_location">/sdcard/download</string>
+    <string name="file_name">EmployeeLeaveJson.txt</string>
+    <string name="downloading_success">File downloading success..</string>
+    <string name="downloading_failure">File downloading failure..</string>
+    <string name="reading_file">Reading downloaded file..</string>
+    <string name="saved_file_path">/sdcard/download/EmployeeLeaveJson.txt</string>
+    <string name="data_construction">Constructing Data..</string>
+    <string name="leave_list_title">Leave List</string>
+    <string name="date_from">Date from:</string>
+    <string name="date_to">Date to:</string>
+    <string name="swipe_down_refresh">Swipe Down to Refresh List</string>
+
+    <!--Session-->
+    <string-array name="select_session">
+        <item>Forenoon</item>
+        <item>Afternoon</item>
+    </string-array>
+</resources>

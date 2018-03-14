@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "185866657635",
+    "firebase_url": "https://empleavemanagement-1987f.firebaseio.com",
+    "project_id": "empleavemanagement-1987f",
+    "storage_bucket": "empleavemanagement-1987f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185866657635:android:fbd63acaa330c91d",
+        "android_client_info": {
+          "package_name": "com.employeeleavemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185866657635-sm1mfft8vi70rnhv5p055g0jh0n6a4p7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.employeeleavemanagement",
+            "certificate_hash": "57b2186f4a3abaa497a3f4da63af8cc273059ed1"
+          }
+        },
+        {
+          "client_id": "185866657635-1kror79cl5s413ild33gt0c7osnednmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRuG8eXoBAubULiayql4xs2FArcl8aHCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185866657635-1kror79cl5s413ild33gt0c7osnednmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

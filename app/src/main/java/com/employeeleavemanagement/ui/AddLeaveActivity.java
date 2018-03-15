@@ -106,7 +106,7 @@ public class AddLeaveActivity extends AppCompatActivity implements View.OnClickL
                 leave.setEmpID(currentEmployee.getEmpID());
                 leave.setLeaveFrom(fromDate.getText().toString());
                 leave.setSessionFrom(sessionFrom.getSelectedItemPosition());
-                leave.setLeaveTo(fromDate.getText().toString());
+                leave.setLeaveTo(toDate.getText().toString());
                 leave.setSessionTo(sessionTo.getSelectedItemPosition());
 
                 long result = dbHelper.addLeaves(leave);
